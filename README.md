@@ -1,4 +1,4 @@
 PiedPipper
 
-Healthy brains for a healthy tomorrow !
+Run index.html on live server
 
